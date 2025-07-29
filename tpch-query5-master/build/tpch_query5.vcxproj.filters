@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Ashu1\Downloads\tpch-query5-master\tpch-query5-master\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Ashu1\Downloads\tpch-query5-master\tpch-query5-master\src\query5.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Ashu1\Downloads\tpch-query5-master\tpch-query5-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8160768D-DA6D-3A9F-A8BD-A970F8CB189B}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

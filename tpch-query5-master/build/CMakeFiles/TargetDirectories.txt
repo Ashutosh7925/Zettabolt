@@ -1,0 +1,3 @@
+C:/Users/Ashu1/Downloads/tpch-query5-master/tpch-query5-master/build/CMakeFiles/tpch_query5.dir
+C:/Users/Ashu1/Downloads/tpch-query5-master/tpch-query5-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ashu1/Downloads/tpch-query5-master/tpch-query5-master/build/CMakeFiles/ZERO_CHECK.dir
